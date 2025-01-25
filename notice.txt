@@ -1,3 +1,4 @@
+## Py
 @misc{pypdf,
  title         = {The {pypdf} library},
  author        = {Mathieu Fenniak and
@@ -11,3 +12,5 @@
  note          = {See https://pypdf.readthedocs.io/en/latest/meta/CONTRIBUTORS.html for all contributors}
 }
 
+"toronto streets.pdf", published and copyrighted in 2018, belongs to the City of Toronto. See the file itself for contact information:
+Toronto Transportation Services. (2018, November) *City of Toronto Road Classification of Streets List: Quick Reference Document*. https://www.toronto.ca/wp-content/uploads/2018/11/9287-TS_Road-Classification_City-Streets-2018.pdf
