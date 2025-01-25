@@ -1,0 +1,13 @@
+@misc{pypdf,
+ title         = {The {pypdf} library},
+ author        = {Mathieu Fenniak and
+                  Matthew Stamy and
+                  pubpub-zz and
+                  Martin Thoma and
+                  Matthew Peveler and
+                  exiledkingcc and {pypdf Contributors}},
+ year          = {2024},
+ url           = {https://pypi.org/project/pypdf/}
+ note          = {See https://pypdf.readthedocs.io/en/latest/meta/CONTRIBUTORS.html for all contributors}
+}
+
